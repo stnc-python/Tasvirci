@@ -45,6 +45,8 @@ Osman'ın Resim İşlemlerini Yapan Aplikasyon. [Stable] [V1]
 #### E:B (En Boy) Oranını Koruyarak Kırpma
 ![screenshot_20171231_180949](https://user-images.githubusercontent.com/25110697/34462465-d47552ae-ee55-11e7-8e6c-3405232621b6.png)
 
+### Çerçeve Ekle
+
 ## Örnek Video
 [![Daha Çekilmedi](https://img.youtube.com/vi/-/0.jpg)](https://www.youtube.com/watch?v=-)
 

@@ -55,3 +55,5 @@ Osman'ın Resim İşlemlerini Yapan Aplikasyon. [Stable] [V1]
 
 #### Resim Ekle
 ![image](https://user-images.githubusercontent.com/25110697/34462506-86251eda-ee56-11e7-9922-e0e2037d4b49.png)
+
+#### Yardım

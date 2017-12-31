@@ -28,6 +28,14 @@ Osman'ın Resim İşlemlerini Yapan Aplikasyon. [Stable] [V1]
 #### Küçültme
 ![image](https://user-images.githubusercontent.com/25110697/34462407-44a23f6c-ee54-11e7-9aec-463d9ffc74f2.png)
 
+#### Oranı Sıfırlama
+![image](https://user-images.githubusercontent.com/25110697/34462436-27cffbf8-ee55-11e7-9c81-a03ea0fee36d.png)
+
+#### Sağa Döndür
+
+#### Sola Döndür
+![image](https://user-images.githubusercontent.com/25110697/34462440-457c28de-ee55-11e7-919c-41b9d533ca00.png)
+
 ## Örnek Video
 [![Daha Çekilmedi](https://img.youtube.com/vi/-/0.jpg)](https://www.youtube.com/watch?v=-)
 

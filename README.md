@@ -34,7 +34,7 @@ Osman'ın Resim İşlemlerini Yapan Aplikasyon. [Stable] [V1]
 #### Sağa Döndür
 ![image](https://user-images.githubusercontent.com/25110697/34462446-5e63edfa-ee55-11e7-84a7-d533db250b24.png)
 
-#### Sola Döndür![image](https://user-images.githubusercontent.com/25110697/34462446-5e63edfa-ee55-11e7-84a7-d533db250b24.png)
+#### Sola Döndür
 ![image](https://user-images.githubusercontent.com/25110697/34462440-457c28de-ee55-11e7-919c-41b9d533ca00.png)
 
 ### Kırp

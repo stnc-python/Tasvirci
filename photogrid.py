@@ -50,7 +50,7 @@ class GridDialog(QDialog, Ui_GridDialog):
 
     def addPhoto(self):
         filefilter = "JPEG Images (*.jpg *jpeg);;PNG Images (*.png);;All Files (*)"
-        filepath, sel_filter = QFileDialog.getOpenFileName(self, 'Open Image', '', filefilter)            
+        filepath, sel_filter = QFileDialog.getOpenFileName(self, 'Seyahatname - Resmi Aç', '', filefilter)            
         if filepath == '' : return
         image_reader = QImageReader(filepath)
         image_reader.setAutoTransform(True)

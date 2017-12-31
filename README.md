@@ -49,3 +49,6 @@ Osman'ın Resim İşlemlerini Yapan Aplikasyon. [Stable] [V1]
 ![image](https://user-images.githubusercontent.com/25110697/34462485-1a4f0fe0-ee56-11e7-9642-d53068f3b369.png)
 
 ### Grid Sistemi
+
+#### Temel Grid
+![image](https://user-images.githubusercontent.com/25110697/34462494-55c053b8-ee56-11e7-8665-c39b3254b30b.png)

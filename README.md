@@ -57,3 +57,7 @@ Osman'ın Resim İşlemlerini Yapan Aplikasyon. [Stable] [V1]
 ![image](https://user-images.githubusercontent.com/25110697/34462506-86251eda-ee56-11e7-9922-e0e2037d4b49.png)
 
 #### Yardım
+![image](https://user-images.githubusercontent.com/25110697/34462510-914c66a6-ee56-11e7-87d1-f669ac6dd16e.png)
+
+#### Ayarlar
+![image](https://user-images.githubusercontent.com/25110697/34462512-a34d1062-ee56-11e7-962f-b3127acbeba6.png)

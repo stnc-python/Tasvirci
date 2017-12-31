@@ -48,6 +48,4 @@ Osman'ın Resim İşlemlerini Yapan Aplikasyon. [Stable] [V1]
 ### Çerçeve Ekle
 ![image](https://user-images.githubusercontent.com/25110697/34462485-1a4f0fe0-ee56-11e7-9642-d53068f3b369.png)
 
-## Örnek Video
-[![Daha Çekilmedi](https://img.youtube.com/vi/-/0.jpg)](https://www.youtube.com/watch?v=-)
-
+### Grid Sistemi

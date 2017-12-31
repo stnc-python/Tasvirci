@@ -38,6 +38,7 @@ Osman'ın Resim İşlemlerini Yapan Aplikasyon. [Stable] [V1]
 ![image](https://user-images.githubusercontent.com/25110697/34462440-457c28de-ee55-11e7-919c-41b9d533ca00.png)
 
 ### Kırp
+![image](https://user-images.githubusercontent.com/25110697/34462455-b0625d4e-ee55-11e7-8297-769c31e1be55.png)
 
 #### Temel Kırpma
 
